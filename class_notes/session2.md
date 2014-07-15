@@ -3,7 +3,7 @@
 ## Temas
 
 1. Funciones
-    Las funciones se deben nombrar usando camelCase 
+    1.1. Las funciones se deben nombrar usando camelCase 
 2. --
 
 
